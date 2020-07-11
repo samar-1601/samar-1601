@@ -1,7 +1,6 @@
-![alt text](https://github.com/samar-1601/samar-1601/blob/master/github_readme_pic.jpg?raw=true)
+<img src="https://github.com/samar-1601/samar-1601/blob/master/github_readme_pic.jpg" alt="alt text" width="500" height="300">
 
 ### Hi there 👋
-
 
 <!-- **samar-1601/samar-1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
