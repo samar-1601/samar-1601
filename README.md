@@ -1,3 +1,5 @@
+![alt text](https://github.com/samar-1601/samar-1601/blob/master/github_readme_pic.jpg?raw=true)
+
 ### Hi there 👋
 
 
